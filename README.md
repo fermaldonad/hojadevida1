@@ -1,2 +1,0 @@
-# hojadevida1
-primerahojadevida
